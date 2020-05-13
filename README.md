@@ -13,5 +13,5 @@ To train: change the training config at Config.py; python train_test.py
 Tensorflow 1.13 and above; python 3.7
 
 ## Running the tests
-./generate.sh
+in generate.sh change the model checkpoint path; ./generate.sh
 
