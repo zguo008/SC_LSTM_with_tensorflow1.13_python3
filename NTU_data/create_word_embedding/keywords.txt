@@ -1,0 +1,14 @@
+construction
+music
+birds
+rain
+shouting
+engine_rev
+YH_Carpark
+YH_Coffee_shop
+YH_Saloon
+YH_Playground
+YH_Basketball
+less_acceptable
+usually_acceptable
+afternoon
